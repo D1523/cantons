@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card-container{
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/31/13/39/land-2700774_1280.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
